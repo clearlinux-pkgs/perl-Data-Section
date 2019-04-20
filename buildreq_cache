@@ -1,0 +1,7 @@
+0.200007
+perl(Data::OptList)
+perl(MRO::Compat)
+perl(Params::Util)
+perl(Sub::Exporter)
+perl(Sub::Install)
+perl(Test::FailWarnings)
