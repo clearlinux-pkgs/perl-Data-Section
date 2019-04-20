@@ -4,7 +4,7 @@
 #
 Name     : perl-Data-Section
 Version  : 0.200007
-Release  : 2
+Release  : 3
 URL      : https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Data-Section-0.200007.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Data-Section-0.200007.tar.gz
 Summary  : read multiple hunks of data out of your DATA section
