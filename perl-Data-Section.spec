@@ -4,7 +4,7 @@
 #
 Name     : perl-Data-Section
 Version  : 0.200007
-Release  : 12
+Release  : 13
 URL      : https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Data-Section-0.200007.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/R/RJ/RJBS/Data-Section-0.200007.tar.gz
 Summary  : 'read multiple hunks of data out of your DATA section'
@@ -103,4 +103,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.34.0/Data/Section.pm
+/usr/lib/perl5/*
